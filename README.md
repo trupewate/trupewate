@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on
 
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=python, java, Linux, c, c++, html, css, js, react, PyTorch, vscode)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)-->
+[![My Skills](https://skillicons.dev/icons?i=python,java,linux,c,cpp,html,css,js,react,pytorch,vscode)](https://skillicons.dev)
 <!--
 **trupewate/trupewate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
