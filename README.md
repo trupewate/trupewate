@@ -1,6 +1,9 @@
 ### Hi, I am Sergei 👋
 ## Senior Computer Science student in Georgia Institute of Technology
-- 🔭 I’m currently working on
+- 🔭 I’m currently working on mobile app in Android Studio
+- 🌱 I’m currently learning Back-end & Databases
+- 📫 How to reach me: trupewate@gmail.com
+  
 
 ## Languages and Tools
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)-->
